@@ -480,5 +480,14 @@
         "default": 200
       }
     }
+  },
+  {
+    "description": "Patch to allow for custom room temp",
+    "files": ["f1145_f1245.json"],
+    "data": {
+      "40033": {
+        "write": true
+      }
+    }
   }
 ]

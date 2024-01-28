@@ -167,7 +167,8 @@
     "unit": "\u00b0C",
     "size": "s16",
     "factor": 10,
-    "name": "bt50-room-temp-s1-40033"
+    "name": "bt50-room-temp-s1-40033",
+    "write": true
   },
   "40042": {
     "title": "CL11-BT51 Pool 1 Temp",
