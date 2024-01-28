@@ -168,7 +168,9 @@
     "size": "s16",
     "factor": 10,
     "name": "bt50-room-temp-s1-40033",
-    "write": true
+    "write": true,
+    "min": 0.0,
+    "max": 300.0
   },
   "40042": {
     "title": "CL11-BT51 Pool 1 Temp",

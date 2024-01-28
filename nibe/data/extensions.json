@@ -486,7 +486,10 @@
     "files": ["f1145_f1245.json"],
     "data": {
       "40033": {
-        "write": true
+        "write": true,
+        "unit": "°C",
+        "min": 0.0,
+        "max": 300.0
       }
     }
   }
